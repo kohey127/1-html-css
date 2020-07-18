@@ -42,9 +42,9 @@
 }
 
 .main {
-  width: 840px; /* 横幅 */
-  height: 1400px; /* 高さ（多めに設定） */
-  background-color: green; /* 背景色 */
+  width: 840px;
+  height: 1400px;
+  background-color: green;
   margin: 0 auto;
 }
 
