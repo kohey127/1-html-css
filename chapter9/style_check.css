@@ -1,0 +1,18 @@
+body {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.social i {
+  font-size: 32px;
+}
+
+.position {
+  position: relative;
+}
+
+.social {
+  position: absolute;
+  right: 40px;
+  top: 100px;
+}
